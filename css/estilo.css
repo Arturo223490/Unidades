@@ -1,0 +1,24 @@
+body{
+    font-size: 60px;
+    background: #ff8b8b;
+}
+ 
+h1{
+    font-size: 1rem;
+    align-self: center;
+}
+ 
+p{
+    margin: 20px;
+    padding: 30px;
+    font-size: .5em;
+    line-height: 50px;
+}
+ 
+img{
+    align-items: center;
+}
+ 
+.imagen{
+    align-items: center;
+}
